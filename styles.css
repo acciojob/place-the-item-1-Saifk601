@@ -1,2 +1,29 @@
-
+ .flex-container {
+	 width:389px;
+	 height:154.7px;
+	 padding:20px;
+	 background-color:white;
+	 display: flex;
+	 flex-direction: row;
+	 flex-wrap: wrap;
+	 
+ }
+ .item1 {
+	 padding:20px;
+	 margin:2px;
+	 font-size:30px;
+	background-color: green; 
+ }
+.item2 {
+	padding:20px;
+	font-size:30px;
+	margin:2px;
+	background-color:red;
+}
+.item3 {
+	padding:20px;
+	font-size:30px;
+	margin-top:0;
+	background-color:blue;
+}
 /* Your CSS Code here. */
